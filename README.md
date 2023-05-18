@@ -3,6 +3,7 @@
 Predicting the 2023 NBA Champion using Data Science
 
 Collaborators: Ayman Chowdhury, Keshav Ganapathy, Julian Javillo, Sahit Kadthala
+PUBLIC LINK: https://skadth6559.github.io/
 
 Introduction
 

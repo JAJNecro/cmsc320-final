@@ -4,8 +4,6 @@ Predicting the 2023 NBA Champion using Data Science
 
 Collaborators: Ayman Chowdhury, Keshav Ganapathy, Julian Javillo, Sahit Kadthala
 
-PUBLIC LINK: https://skadth6559.github.io/
-
 Introduction
 
 The analysis of this project was formulated with the intention of exploring the key steps involved in data science. Towards this end, we have taken it upon ourselves to investigate how an NBA team's common regular season metrics such as its average points per game, avergae rebounds per game, average field goal percentage, and so forth over the course of the year influence its probability at winning a championship.
